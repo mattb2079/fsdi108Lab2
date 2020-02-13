@@ -1,0 +1,18 @@
+div{
+    padding: 10px 20px;
+    border: 1px solid #f0f0f0;
+    color: green;
+    background-color: orange;
+}
+
+body{
+    background-color: red($color: #555555)
+}
+
+p{
+    color: blue;
+}
+
+button{
+    background-color: red($color: #000000);
+}
